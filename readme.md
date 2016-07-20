@@ -2,6 +2,8 @@
 
 LaraBlog博客管理系统使用laravel5.1框架进行开发，系统名称中的lara取自laravel框架的前四个字母，以表达对Laravel框架的敬意。
 
+**GitHub：**`https://github.com/larablog/larablog.git`
+
 ## 系统安装环境
 
 - PHP >= 5.5.9
